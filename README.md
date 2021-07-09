@@ -24,9 +24,10 @@
 
 ## Tools: 
 <br>
-![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
-![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=Visual Studio Code)
+![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
+![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=vscode)
 <br>
 
 ## Contacts:
-![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=instagram)
+ ### My Instagram follow me: [instagram.com](https://www.instagram.com/gibadullin_ilyas/) 
+ ### My Facebook 
