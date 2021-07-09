@@ -1,6 +1,7 @@
 ### <h1>Hello World!</h1> 
     My Name is Ilyas 👋 And i'm a Front-End Developer you came to my github page, welcome!
-    ![Nya1](https://user-images.githubusercontent.com/83646621/125054581-0bfd9980-e0af-11eb-95ab-0e5b555b9996.png)
+    <img>![Nya1](https://user-images.githubusercontent.com/83646621/125054664-22a3f080-e0af-11eb-8a01-6f9aae0fb893.png)
+</img>
 
 
 
