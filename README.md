@@ -2,7 +2,6 @@
  ## My Name is **Gibadullin Ilyas** 👋 And i'm a *Front-End Developer* you came to my github page, Welcome!
  
  
- 
   "Be happy for this moment. This moment is your life."<br>
            ***Omar Khayyam***
    
@@ -12,6 +11,7 @@
 ### - ⚡ Fun fact about me: 
 
 
+   
  # My Hard skills: <br>
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) 
 ![HTML](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
