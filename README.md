@@ -20,6 +20,8 @@
 ![HTML](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
 ![HTML](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack)
+![HTML](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 
 
 ## Tools: 
