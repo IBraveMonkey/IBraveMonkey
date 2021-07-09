@@ -7,8 +7,9 @@
    
 ### - 👯 I’m looking to collaborate on other web developers;
 ### - 💬 You can ask me anything;
-### - 📫 How to reach me: Russia, Tatrstan, Kazan;
-### - ⚡ Fun fact about me: 
+### - 📫 How to reach me: Russia -> Tatrstan -> Kazan;
+### - ⚡ Fun fact about me: ![Mountain](https://user-images.githubusercontent.com/83646621/125064998-ee81fd00-e0b9-11eb-983c-d5acbf0c2779.png)
+
 <br>
 
    
