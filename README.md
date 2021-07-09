@@ -1,15 +1,14 @@
-### <h1>Hello World!</h1> 
-    My Name is Ilyas 👋 And i'm a Front-End Developer you came to my github page, welcome!
-    <img>![Nya1](https://user-images.githubusercontent.com/83646621/125054664-22a3f080-e0af-11eb-8a01-6f9aae0fb893.png)
-</img>
+# <h1>Hello World!</h1> 
+ ##My Name is **Gibadullin Ilyas** 👋 And i'm a *Front-End Developer* you came to my github page, Welcome!
+ 
+  Be happy for this moment. This moment is your life.<br>
+   ***Omar Khayyam***
+   
+###- 👯 I’m looking to collaborate on other web developers;
+###- 💬 You can ask me anything;
+###- 📫 How to reach me: Russia, Tatrstan, Kazan;
+###- ⚡ Fun fact about me: 
 
 
-
-- 👯 I’m looking to collaborate on other web developers;
-- 💬 You can ask me anything;
-- 📫 How to reach me: Russia, Tatrstan, Kazan;
-- ⚡ Fun fact about me: 
-
-
- My Hard skills:
- <img height="20 "src="https://img.icons8.com/color/452/graphql.png">
+ #My Hard skills:
+![HTML](https://img.shields.io/badge/-HTML-Black?style=flat-square&logo=appveyor)
