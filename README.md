@@ -25,7 +25,7 @@
 ## Tools: 
 <br>
 ![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
-![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=vscode)
+![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=Visual Studio Code)
 <br>
 
 ## Contacts:
