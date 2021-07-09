@@ -29,5 +29,7 @@
 <br>
 
 ## Contacts:
- ### My Instagram follow me: [instagram.com](https://www.instagram.com/gibadullin_ilyas/) 
- ### My Facebook 
+ ### My Instagram follow me: [Instagram](https://www.instagram.com/gibadullin_ilyas/) 
+ ### My Facebook: [Facebook](https://www.facebook.com/profile.php?id=100008774297453)
+ ### Telegram: [Telegram] (https://t.me/Gibad_1)
+ 
