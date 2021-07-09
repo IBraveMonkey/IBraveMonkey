@@ -11,4 +11,4 @@
 
 
  #My Hard skills:
-![HTML](https://img.shields.io/badge/-HTML-Black?style=flat-square&logo=appveyor)
+https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=appveyor=html5
