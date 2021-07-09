@@ -10,3 +10,6 @@
 - 📫 How to reach me: Russia, Tatrstan, Kazan;
 - ⚡ Fun fact about me: 
 
+
+ My Hard skills:
+ <img height="20 "src="https://img.icons8.com/color/452/graphql.png">
