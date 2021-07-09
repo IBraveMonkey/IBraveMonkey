@@ -26,10 +26,10 @@
 <br>
 ![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
 ![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=vscode)
-<br>
+
 
 ## Contacts:
  ### My Instagram follow me: [Instagram](https://www.instagram.com/gibadullin_ilyas/) 
  ### My Facebook: [Facebook](https://www.facebook.com/profile.php?id=100008774297453)
- ### Telegram: [Telegram] (https://t.me/Gibad_1)
+ ### Telegram: (https://t.me/Gibad_1)
  
