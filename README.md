@@ -16,7 +16,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5) 
 ![HTML](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=saas)
+![HTML](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![HTML](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
 ![HTML](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
 ![HTML](https://img.shields.io/badge/-JQUERY-090909?style=for-the-badge&logo=jQuery)
@@ -28,8 +28,8 @@
 
 ## Tools: 
 <br>
-![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)
-![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=vscode)
+![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
+![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=Vscode)
 
 
 ## Contacts:
