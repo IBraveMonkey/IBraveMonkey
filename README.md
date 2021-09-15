@@ -27,6 +27,7 @@
 ![HTML](https://img.shields.io/badge/-REACT-090909?style=for-the-badge&logo=react)
 ![HTML](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux)
 ![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
+![HTML](https://img.shields.io/badge/-BABEL-090909?style=for-the-badge&logo=Babel) 
 
 
 
