@@ -29,10 +29,9 @@
 ![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
 
 
-## Tools: 
 
-![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
-![HTML](https://img.shields.io/badge/-VsCode-090909?style=for-the-badge&logo=Vscode)
+
+
 
 
 ## Contacts:
