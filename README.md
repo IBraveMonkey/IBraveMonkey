@@ -21,6 +21,7 @@
 ![HTML](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=typescript)
 ![HTML](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![HTML](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=bootstrap)
+![HTML](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma)
 ![HTML](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=npm)
 ![HTML](https://img.shields.io/badge/-JQUERY-090909?style=for-the-badge&logo=jQuery)
 ![HTML](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp)
