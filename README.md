@@ -31,7 +31,8 @@
 ![HTML](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=Git)
 ![HTML](https://img.shields.io/badge/-BABEL-090909?style=for-the-badge&logo=Babel) 
 ![HTML](https://img.shields.io/badge/-JEST-090909?style=for-the-badge&logo=Jest)
-![HTML](https://img.shields.io/badge/-GATSBY-090909?style=for-the-badge&logo=Gatsby) 
+![HTML](https://img.shields.io/badge/-GATSBY-090909?style=for-the-badge&logo=Gatsby)
+![HTML](https://img.shields.io/badge/-REACTTESTINGLIBRARY-090909?style=for-the-badge&logo=ReactTestingLibrary)
 
 
 
