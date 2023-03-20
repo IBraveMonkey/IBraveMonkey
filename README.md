@@ -1,5 +1,5 @@
 # <h1>Hello World!</h1> 
- ## My Name is **Gibadullin Ilyas** 👋 And i'm a *Front-End Developer* you came to my github page, Welcome!
+ ## My Name is **Gibadullin Ilyas** 👋 And i'm a *JavaScript Developer* you came to my github page, Welcome!
  
  
   "Be happy for this moment. This moment is your life."<br>
