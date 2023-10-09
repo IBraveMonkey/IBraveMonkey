@@ -5,6 +5,7 @@
   "Be happy for this moment. This moment is your life."<br>
            ***Omar Khayyam***  
 
+***Visitor counter:***
 ![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
    
 ### - 👯 I’m looking to collaborate on other web developers;
