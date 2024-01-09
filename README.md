@@ -1,5 +1,5 @@
 # <h1>Hello World!</h1> 
- ## My Name is **Gibadullin Ilyas** 👋 And i'm a *JavaScript Developer* you came to my github page, Welcome!
+ ## My Name is **Gibadullin Ilyas** 👋 And i'm a *JavaScript/GOlang Developer* you came to my github page, Welcome!
  
  
   "Be happy for this moment. This moment is your life."<br>
@@ -60,7 +60,6 @@
 
 
 ## Contacts:
- ### My Instagram follow me: [Instagram](https://www.instagram.com/gibadullin_ilyas/) 
- ### My Facebook: [Facebook](https://www.facebook.com/profile.php?id=100008774297453)
- ### Telegram: (https://t.me/Gibad_1)
+
+ ### Telegram: (https://t.me/@brave_monkey)
  
