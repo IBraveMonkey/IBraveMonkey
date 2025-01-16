@@ -4,7 +4,7 @@
  
   "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
   то мы встретимся раньше положенного"<br>
-           ***Omar Khayyam***  
+           ***Ильяс Гибадуллин***  
 
 ***Visitor counter:*** Need to fix <br>
 ![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
