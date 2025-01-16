@@ -2,7 +2,8 @@
  ## My Name is **Gibadullin Ilyas** 👋 And i'm a *JavaScript/GOlang Developer* you came to my github page, Welcome!
  
  
-  "Be happy for this moment. This moment is your life."<br>
+  "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
+  то мы встретимся раньше положенного"<br>
            ***Omar Khayyam***  
 
 ***Visitor counter:*** Need to fix <br>
