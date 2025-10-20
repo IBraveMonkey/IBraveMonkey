@@ -1,5 +1,5 @@
 # <h1>Hello World!</h1> 
- ## My Name is **Gibadullin Ilyas** 👋 And i'm a *JavaScript/GOlang Developer* you came to my github page, Welcome!
+ ## My Name is **Gibadullin Ilyas** 👋 And i'm a GOlang Developer* you came to my github page, Welcome!
  
  
   "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
@@ -20,7 +20,7 @@
    
 ## My Hard skills: <br>
 
-## [Frontend]: ##
+//## [Frontend]: ##
 
 ![HTML](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
