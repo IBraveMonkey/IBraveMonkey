@@ -9,7 +9,7 @@
 ***Visitor counter:***<br>
 ![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
    
-### - 👯 I’m looking to collaborate on other web developers;
+### - 👯 I’m looking to collaborate on other developers;
 ### - 💬 You can ask me anything;
 ### - 📫 How to reach me: Russia -> Tatarstan -> Kazan -> Baltasi;
 
