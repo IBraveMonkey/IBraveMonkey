@@ -16,7 +16,7 @@
 
 <br> ![Me](https://files.catbox.moe/otesq6.jpg)
 <br>
-Yeap its literally me 
+Yeap it`s literally me 
 <br>
 
    
@@ -49,5 +49,6 @@ Yeap its literally me
 
 ## Contacts:
 
- ### Telegram: (https://t.me/@brave_monkey)
+
+ ### [Telegram](https://t.me/@brave_monkey)
  
