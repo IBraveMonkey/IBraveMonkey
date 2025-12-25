@@ -48,5 +48,5 @@ Yeap it`s literally me
 
 
 ## Contacts:
-[Telegram](https://t.me/@brave_monkey](https://web.telegram.org/k/#@brave_monkey)
+[Telegram](https://web.telegram.org/k/#@brave_monkey)
  
