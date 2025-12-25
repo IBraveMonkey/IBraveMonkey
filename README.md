@@ -12,7 +12,7 @@
 ### - 👯 I’m looking to collaborate on other web developers;
 ### - 💬 You can ask me anything;
 ### - 📫 How to reach me: Russia -> Tatarstan -> Kazan -> Baltasi;
-<br> ![Me](https://avatars.mds.yandex.net/i?id=f64e904ab61a998c359463660d381482_l-4141662-images-thumbs&n=13)
+<br> ![Me]([https://avatars.mds.yandex.net/i?id=f64e904ab61a998c359463660d381482_l-4141662-images-thumbs&n=13](https://github.com/user-attachments/assets/7ddb22b0-6cb0-4043-bdec-4d68663c8278))
 
 <br>
 
