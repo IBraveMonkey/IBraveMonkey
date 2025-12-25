@@ -1,5 +1,5 @@
 # <h1>Hello World!</h1> 
- ## My Name is **Gibadullin Ilyas** 👋 And i'm a GOlang Developer* you came to my github page, Welcome!
+ ## My Name is **Gibadullin Ilyas** 👋 And i'm a **GOlang Developer** you came to my github page, Welcome!
  
  
   "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
@@ -12,8 +12,10 @@
 ### - 👯 I’m looking to collaborate on other web developers;
 ### - 💬 You can ask me anything;
 ### - 📫 How to reach me: Russia -> Tatarstan -> Kazan -> Baltasi;
-<br> ![Me](https://files.catbox.moe/otesq6.jpg)
 
+
+<br> ![Me](https://files.catbox.moe/otesq6.jpg)
+Yeap its literally me 
 <br>
 
    
