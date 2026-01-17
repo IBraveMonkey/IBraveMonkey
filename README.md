@@ -1,5 +1,5 @@
 # <h1>Hello World!</h1> 
- ## My Name is **Gibadullin Ilyas** 👋 And i'm a **GOlang Developer** you came to my github page, Welcome!
+ ## My Name is **Gibadullin Ilyas\ ilyas Xu** 👋 And i'm a **GOlang Developer** you came to my github page, Welcome!
  
  
   "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
@@ -44,7 +44,7 @@
 <br>
 
 ## [Other]: ##
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) --- sou-sou
 
 
 ## Contacts:
