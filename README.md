@@ -1,5 +1,5 @@
 # <h1>Hello World!</h1> 
- ## My Name is **Gibadullin Ilyas\ ilyas Xu** 👋 And i'm a **GOlang Developer** you came to my github page, Welcome!
+ ## My Name is **Gibadullin Ilyas\ Ilyas Xu** 👋 And i'm a **GOlang Developer** you came to my github page, Welcome!
  
  
   "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
