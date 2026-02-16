@@ -45,7 +45,7 @@
 
 ## [Other]: ##
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) --- sou-sou
-![Rust]([https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=Rust&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)) --- so-so
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)--- so-so
 
 
 ## Contacts:
