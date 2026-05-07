@@ -110,18 +110,23 @@ Status   :
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-7AA2F7?style=for-the-badge&logo=c&logoColor=1A1B26)
+### ⚙️ C Core
+<img src="https://skillicons.dev/icons?i=c" />
+
+<br>
 
 <sub><b>I know it (level - sou-sou).</b></sub>
 
-<br><br>
+<br>
 
-![Rust](https://img.shields.io/badge/Rust-7AA2F7?style=for-the-badge&logo=rust&logoColor=1A1B26)
+### 🦀 Rust Experiments
+<img src="https://skillicons.dev/icons?i=rust" />
+
+<br>
 
 <sub><b>Started it. Finished in tears.</b></sub>
 
 </div>
-
 ---
 
 # 📬 Contacts
