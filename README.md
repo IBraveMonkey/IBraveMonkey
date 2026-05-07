@@ -88,7 +88,7 @@ Status   :
 
 <div align="center">
 
-### 🟦 Backend
+### 🖥 Backend System
 <img src="https://skillicons.dev/icons?i=go,docker,linux,git,gitlab,graphql" />
 
 <br>
@@ -110,18 +110,17 @@ Status   :
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-7AA2F7?style=for-the-badge\&logo=c\&logoColor=1A1B26)
+![C](https://img.shields.io/badge/C-7AA2F7?style=for-the-badge&logo=c&logoColor=1A1B26)
 
-<sub><i>I know it (level - sou-sou).</i></sub>
+<sub><b>I know it (level - sou-sou).</b></sub>
 
 <br><br>
 
-![Rust](https://img.shields.io/badge/Rust-7AA2F7?style=for-the-badge\&logo=rust\&logoColor=1A1B26)
+![Rust](https://img.shields.io/badge/Rust-7AA2F7?style=for-the-badge&logo=rust&logoColor=1A1B26)
 
-<sub><i>Started it. Finished in tears.</i></sub>
+<sub><b>Started it. Finished in tears.</b></sub>
 
 </div>
-
 
 ---
 
