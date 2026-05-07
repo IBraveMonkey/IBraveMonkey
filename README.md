@@ -33,13 +33,24 @@
 
 ---
 
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
+
+</div>
+
+---
+
 # ⚡ About Me
 
 ```txt
 Location : Russia → Tatarstan → Kazan → Baltasi
 Role     : Go Backend Developer
 Focus    : Distributed Systems / APIs / Infrastructure
-Status   : Probably debugging Kafka right now
+Status   : 
 ```
 
 * 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
@@ -151,15 +162,6 @@ Status   : Probably debugging Kafka right now
 
 </div>
 
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
-
-</div>
 
 ---
 
