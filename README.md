@@ -153,25 +153,6 @@ Status   :
 
 </div>
 
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IBraveMonkey&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=IBraveMonkey&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IBraveMonkey&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
