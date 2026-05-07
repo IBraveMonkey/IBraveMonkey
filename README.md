@@ -1,28 +1,38 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=IBraveMonkey)](https://git.io/typing-svg)
+
+
 # <h1>Hello World!</h1> 
  ## My Name is **Gibadullin Ilyas\ Ilyas Xu** 👋 And i'm a **GOlang Developer** you came to my github page, Welcome!
- 
+
+---
  
   "Боженька, я обращаюсь к тебе. Знай, чтоя очень слабый и если ты продолжишь давать мне испытания,
   то мы встретимся раньше положенного"<br>
            ***Ильяс Гибадуллин***  
 
+---
+
 ***Visitor counter:***<br>
 ![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
-   
-### - 👯 I’m looking to collaborate on other developers;
-### - 💬 You can ask me anything;
-### - 📫 How to reach me: Russia -> Tatarstan -> Kazan -> Baltasi;
 
+---
+   
+### - 👯  Ищу коллег — принимаю только тек, кто пишет time.Sleep() вместо нормальной синхронизации
+### - 💬 **Можешь спросить у меня о чем угодно** — отвечу честно или сделаю вид, что не понял
+### - 📫 **Как найти меня:** Россия → Татарстан → Казань → Балтаси;
+
+---
 
 <br> ![Me](https://files.catbox.moe/otesq6.jpg)
 <br>
-**Yeap it`s literally me**
+**Yeap, это я. Не спрашивай**
 <br>
 
-   
-## My Hard skills: <br>
+---
 
-## [Backend]: ##
+## ⚙️ Мои навыки (официальная версия) <br>
+
+### [Backend]: 
 
 ![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -43,13 +53,14 @@
 <br>
 <br>
 
-## [Other]: ##
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) --- sou-sou(base)
+### Прочее (неофициальная версия): 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) - sou-sou(base)
 <br>
 <br>
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) --- круто, классно(нет)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) - начинал. финишировал в слезах.
 
+---
 
-## Contacts:
-### [Telegram](https://web.telegram.org/k/#@brave_monkey)
+## Контакты:
+### [Telegram](https://web.telegram.org/k/#@brave_dog)
  
