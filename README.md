@@ -6,12 +6,12 @@
 
 <pre>
 ┌──────────────────────────────────────────────┐
-│  compiling reality...                       │
-│  linking dependencies...                    │
-│  optimizing questionable decisions...       │
+│  compiling reality...                        │
+│  linking dependencies...                     │
+│  optimizing questionable decisions...        │
 │                                              │
-│  build: SUCCESS ✔                           │
-│  output: running in production (somehow)    │
+│  build: SUCCESS ✔                            │
+│  output: running in production (somehow)     │
 └──────────────────────────────────────────────┘
 </pre>
 
@@ -78,13 +78,11 @@ Status   :
 
 <br><br>
 
-<sub><sup><i>"Yep, that's me. Don't ask."</i></sup></sub>
+<sub><b style="font-size:16px;">"Yep, that's me. Don't ask."</b></sub>
 
 </div>
 
 ---
-
-# ⚙️ Tech Stack
 
 # ⚙️ Tech Stack
 
