@@ -18,18 +18,13 @@
 
 🗣️ **Languages:** English / Tatarian / Russian
 
-&nbsp;
-
 ***Visitor counter (yes, I'm watching):***
 ![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
 
-&nbsp;
 
 - 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
 - 💬 Ask me anything — I'll either answer honestly or pretend I didn't understand
 - 📫 How to find me: Russia → Tatarstan → Kazan → Baltasi
-
-&nbsp;
 
 ![Me](https://files.catbox.moe/otesq6.jpg)
 
