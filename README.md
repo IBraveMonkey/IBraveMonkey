@@ -1,11 +1,27 @@
 <div align="center">
 
+# IBraveMonkey
 
-*"You found my GitHub. Brave soul."*
+### Software Engineer
+
+### Senior Ctrl+C / Ctrl+V Architect
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=34\&pause=1000\&color=7AA2F7\&center=true\&vCenter=true\&width=700\&lines=IBraveMonkey;Go+Developer;Kafka+Enjoyer;time.Sleep\(\)+Specialist)](https://git.io/typing-svg)
+<pre>
+┌──────────────────────────────────────────────┐
+│  compiling reality...                       │
+│  linking dependencies...                    │
+│  optimizing questionable decisions...       │
+│                                              │
+│  build: SUCCESS ✔                           │
+│  output: running in production (somehow)    │
+└──────────────────────────────────────────────┘
+</pre>
+
+<br>
+
+*"You found my GitHub. Brave soul."*
 
 </div>
 
@@ -148,9 +164,9 @@ Status   :
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IBraveMonkey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=IBraveMonkey&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IBraveMonkey&theme=tokyonight&hide_border=true&background=1A1B26"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=IBraveMonkey&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -158,10 +174,9 @@ Status   :
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IBraveMonkey&theme=tokyo-night&hide_border=true&bg_color=1A1B26"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=IBraveMonkey&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 
 ---
 
