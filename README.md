@@ -1,6 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&width=435&lines=IBraveMonkey)](https://git.io/typing-svg)
+<div align="center">
 
-# Hello World! 🫩
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&width=600&lines=IBraveMonkey)](https://git.io/typing-svg)
+
+</div>
+
+# Hello World! 😞
 
 ## I'm Gibadullin Ilyas\Ilyas Xu — Go Developer 👋
 ### You found my GitHub. Brave soul.
@@ -54,7 +58,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### 🗿 Other (unofficial version):
+### 👾 Other (unofficial version):
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 — I know it(level - sou-sou).
 
@@ -65,5 +69,5 @@
 
 ## 📬 Contacts
 
-### 🐒 [Telegram — @brave_monkey](https://web.telegram.org/k/#@brave_dog)
+### 🐕 [Telegram — @brave_monkey](https://web.telegram.org/k/#@brave_dog)
 > *Message me anytime. I'm here.*
