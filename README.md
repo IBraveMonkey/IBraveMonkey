@@ -1,89 +1,124 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&width=700&height=80&lines=IBraveMonkey)](https://git.io/typing-svg)
+# IBraveMonkey
 
-### Go Developer 👋  
-### *"You found my GitHub. Brave soul."*
+### Go Backend Developer
+
+```go
+func main() {
+    panic("distributed systems")
+}
+````
+
+*"You found my GitHub. Brave soul."*
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=34\&pause=1000\&color=7AA2F7\&center=true\&vCenter=true\&width=700\&lines=IBraveMonkey;Go+Developer;Kafka+Enjoyer;time.Sleep\(\)+Specialist)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# Hello World! 🌍
+# Hello World 🌍
 
-## I'm Gibadullin Ilyas \ Ilyas Xu
+## I'm Gibadullin Ilyas \ Ilyas Xu 👋
 
-> *"Lord, I address You. Know that I am very weak,*  
-> *and if You keep sending me trials —*  
-> *we will meet sooner than planned."*  
+> *"Lord, I address You. Know that I am very weak,*
+> *and if You keep sending me trials —*
+> *we will meet sooner than planned."*
 >
 > — **Ilyas Gibadullin**
 
 ---
 
-## 🗣️ Languages
-
-<p align="center">
-English • Tatarian • Russian
-</p>
-
----
-
-## 👀 Visitor Counter
+## 🗣 Languages
 
 <div align="center">
 
-![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
+`English` • `Tatarian` • `Russian`
 
 </div>
 
 ---
 
-## 💭 About Me
+# ⚡ About Me
 
-- 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
-- 💬 Ask me anything — I'll either answer honestly or pretend I didn't understand
-- 📫 How to find me: Russia → Tatarstan → Kazan → Baltasi
+```txt
+Location : Russia → Tatarstan → Kazan → Baltasi
+Role     : Go Backend Developer
+Focus    : Distributed Systems / APIs / Infrastructure
+Status   : Probably debugging Kafka right now
+```
+
+* 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
+* 💬 Ask me anything — I'll either answer honestly or pretend I didn't understand
+* 📫 Surviving production incidents since unknown
 
 ---
 
-## 📸 Me
+# 📸 Me
 
 <div align="center">
 
-<img src="https://files.catbox.moe/otesq6.jpg" width="350" style="border-radius:12px;" />
+<img src="https://files.catbox.moe/otesq6.jpg" width="320" style="border-radius: 18px;" />
 
-### *Yep, that's me. Don't ask.*
+<br><br>
+
+<sub><sup><i>"Yep, that's me. Don't ask."</i></sup></sub>
 
 </div>
 
 ---
 
-# ⚙️ Hard Skills
+# ⚙️ Tech Stack
 
 ## 🟦 Backend
 
 <div align="center">
 
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=for-the-badge)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Go](https://img.shields.io/badge/Go-7AA2F7?style=for-the-badge\&logo=go\&logoColor=1A1B26)
+![REST API](https://img.shields.io/badge/REST_API-7AA2F7?style=for-the-badge)
+![gRPC](https://img.shields.io/badge/gRPC-7AA2F7?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-7AA2F7?style=for-the-badge\&logo=graphql\&logoColor=1A1B26)
 
-![REST API](https://img.shields.io/badge/REST_API-%23DD0031.svg?style=for-the-badge&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-%23244c5a.svg?style=for-the-badge&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+</div>
 
-![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+---
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+## 🗄 Databases
+
+<div align="center">
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-7AA2F7?style=for-the-badge\&logo=postgresql\&logoColor=1A1B26)
+![MySQL](https://img.shields.io/badge/MySQL-7AA2F7?style=for-the-badge\&logo=mysql\&logoColor=1A1B26)
+![MongoDB](https://img.shields.io/badge/MongoDB-7AA2F7?style=for-the-badge\&logo=mongodb\&logoColor=1A1B26)
+![Redis](https://img.shields.io/badge/Redis-7AA2F7?style=for-the-badge\&logo=redis\&logoColor=1A1B26)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-7AA2F7?style=for-the-badge\&logo=clickhouse\&logoColor=1A1B26)
+
+</div>
+
+---
+
+## ⚙️ Infrastructure
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-7AA2F7?style=for-the-badge\&logo=docker\&logoColor=1A1B26)
+![Linux](https://img.shields.io/badge/Linux-7AA2F7?style=for-the-badge\&logo=linux\&logoColor=1A1B26)
+![Git](https://img.shields.io/badge/Git-7AA2F7?style=for-the-badge\&logo=git\&logoColor=1A1B26)
+![GitLab](https://img.shields.io/badge/GitLab-7AA2F7?style=for-the-badge\&logo=gitlab\&logoColor=1A1B26)
+
+</div>
+
+---
+
+## 📨 Messaging
+
+<div align="center">
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-7AA2F7?style=for-the-badge\&logo=apachekafka\&logoColor=1A1B26)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-7AA2F7?style=for-the-badge\&logo=rabbitmq\&logoColor=1A1B26)
 
 </div>
 
@@ -93,15 +128,45 @@ English • Tatarian • Russian
 
 <div align="center">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-7AA2F7?style=for-the-badge\&logo=c\&logoColor=1A1B26)
 
-**I know it (level - sou-sou).**
+<sub><i>I know it (level - sou-sou).</i></sub>
+
+<br><br>
+
+![Rust](https://img.shields.io/badge/Rust-7AA2F7?style=for-the-badge\&logo=rust\&logoColor=1A1B26)
+
+<sub><i>Started it. Finished in tears.</i></sub>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B26"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=1A1B26"/>
+
+</div>
 
 <br>
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+<div align="center">
 
-**Started it. Finished in tears.**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=1A1B26"/>
+
+</div>
+
+---
+
+# 👀 Visitor Counter
+
+<div align="center">
+
+![visits](https://count.getloli.com/get/@Gibad-brave-monkey?theme=rule34)
 
 </div>
 
@@ -115,6 +180,8 @@ English • Tatarian • Russian
 
 ### [@brave_dog](https://web.telegram.org/k/#@brave_dog)
 
-> *Message me anytime. I'm here.*
+<br>
+
+<i>Message me anytime. I'm here.</i>
 
 </div>
