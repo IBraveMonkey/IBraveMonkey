@@ -9,8 +9,7 @@
 ## I'm Gibadullin Ilyas\Ilyas Xu — Go Developer 👋
 ### You found my GitHub. Brave soul.
 
-&nbsp;
-
+<br/>
 > *"Lord, I address You. Know that I am very weak,*
 > *and if You keep sending me trials —*
 > *we will meet sooner than planned."*
