@@ -27,6 +27,7 @@
 - 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
 - 💬 Ask me anything — I'll either answer honestly or pretend I didn't understand
 - 📫 How to find me: Russia → Tatarstan → Kazan → Baltasi
+<br>
 
 ![Me](https://files.catbox.moe/otesq6.jpg)
 
