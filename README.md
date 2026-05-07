@@ -5,14 +5,16 @@
 <br>
 
 <pre>
-┌──────────────────────────────────────────────┐
-│  compiling reality...                        │
-│  linking dependencies...                     │
-│  optimizing questionable decisions...        │
-│                                              │
-│  build: SUCCESS ✔                            │
-│  output: running in production (somehow)     │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  checking if err != nil everywhere...                           │
+│  mounting config.yaml (hopefully right path)...                 │
+│  waiting for postgres to be ready...                            │
+│  spawning goroutines & praying for no races...                  │
+│  build: SUCCESS (binary is ready) ✔                             │
+│  output: deployed to k8s (pod: CrashLoopBackOff)                │
+│  comment: ... дабля, why it's not working?! It worked in Docker!│
+└─────────────────────────────────────────────────────────────────┘
+
 </pre>
 
 <br>
