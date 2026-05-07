@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=000000&center=true&width=600&lines=IBraveMonkey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&width=600&height=80&lines=IBraveMonkey)](https://git.io/typing-svg)
 
 </div>
 
@@ -69,5 +69,5 @@
 
 ## 📬 Contacts
 
-### 🐕 [Telegram — @brave_monkey](https://web.telegram.org/k/#@brave_dog)
+### 🐕 [Telegram — @brave_dog](https://web.telegram.org/k/#@brave_dog)
 > *Message me anytime. I'm here.*
