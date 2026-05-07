@@ -86,52 +86,23 @@ Status   :
 
 # ⚙️ Tech Stack
 
-## 🟦 Backend
-
 <div align="center">
 
-![Go](https://img.shields.io/badge/Go-7AA2F7?style=for-the-badge\&logo=go\&logoColor=1A1B26)
-![REST API](https://img.shields.io/badge/REST_API-7AA2F7?style=for-the-badge)
-![gRPC](https://img.shields.io/badge/gRPC-7AA2F7?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-7AA2F7?style=for-the-badge\&logo=graphql\&logoColor=1A1B26)
+## 🟦 Backend
 
-</div>
+<img src="https://skillicons.dev/icons?i=go,docker,linux,git,gitlab,graphql" />
 
 ---
 
 ## 🗄 Databases
 
-<div align="center">
-
-![Postgres](https://img.shields.io/badge/PostgreSQL-7AA2F7?style=for-the-badge\&logo=postgresql\&logoColor=1A1B26)
-![MySQL](https://img.shields.io/badge/MySQL-7AA2F7?style=for-the-badge\&logo=mysql\&logoColor=1A1B26)
-![MongoDB](https://img.shields.io/badge/MongoDB-7AA2F7?style=for-the-badge\&logo=mongodb\&logoColor=1A1B26)
-![Redis](https://img.shields.io/badge/Redis-7AA2F7?style=for-the-badge\&logo=redis\&logoColor=1A1B26)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-7AA2F7?style=for-the-badge\&logo=clickhouse\&logoColor=1A1B26)
-
-</div>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
 ---
 
-## ⚙️ Infrastructure
+## 📨 Messaging & Infra
 
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-7AA2F7?style=for-the-badge\&logo=docker\&logoColor=1A1B26)
-![Linux](https://img.shields.io/badge/Linux-7AA2F7?style=for-the-badge\&logo=linux\&logoColor=1A1B26)
-![Git](https://img.shields.io/badge/Git-7AA2F7?style=for-the-badge\&logo=git\&logoColor=1A1B26)
-![GitLab](https://img.shields.io/badge/GitLab-7AA2F7?style=for-the-badge\&logo=gitlab\&logoColor=1A1B26)
-
-</div>
-
----
-
-## 📨 Messaging
-
-<div align="center">
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-7AA2F7?style=for-the-badge\&logo=apachekafka\&logoColor=1A1B26)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-7AA2F7?style=for-the-badge\&logo=rabbitmq\&logoColor=1A1B26)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,rabbitmq" />
 
 </div>
 
