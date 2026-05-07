@@ -86,25 +86,25 @@ Status   :
 
 # ⚙️ Tech Stack
 
+# ⚙️ Tech Stack
+
 <div align="center">
 
-## 🟦 Backend
-
+### 🟦 Backend
 <img src="https://skillicons.dev/icons?i=go,docker,linux,git,gitlab,graphql" />
 
----
+<br>
 
-## 🗄 Databases
-
+### 🗄 Databases & Cache
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
----
+<br>
 
-## 📨 Messaging & Infra
-
+### 📨 Messaging
 <img src="https://go-skill-icons.vercel.app/api/icons?i=kafka,rabbitmq" />
 
 </div>
+
 
 ---
 
