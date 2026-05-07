@@ -4,7 +4,7 @@
 
 </div>
 
-# Hello World! 😞
+# Hello World! 🌍
 
 ## I'm Gibadullin Ilyas\Ilyas Xu — Go Developer 👋
 ### You found my GitHub. Brave soul.
