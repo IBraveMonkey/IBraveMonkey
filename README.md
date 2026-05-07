@@ -76,7 +76,7 @@ Status   :
 
 <img src="https://files.catbox.moe/otesq6.jpg" width="320" style="border-radius: 18px;" />
 
-<br><br>
+<br>
 
 <sub><b style="font-size:16px;">"Yep, that's me. Don't ask."</b></sub>
 
