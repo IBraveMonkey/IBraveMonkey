@@ -1,14 +1,13 @@
 <div align="center">
 
-# IBraveMonkey
+
 
 ### Go Backend Developer
 
-```go
 func main() {
     panic("distributed systems")
 }
-````
+
 
 *"You found my GitHub. Brave soul."*
 
