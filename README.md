@@ -67,8 +67,7 @@ Status   : tired
 ```
 
 * 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
-* 💬 Ask me anything — I'll either answer honestly or pretend I didn't understand
-* 📫 Surviving production incidents since unknown
+* 💬 Ask me anything — I’ll answer “I don’t know” (I do)
 
 ---
 
