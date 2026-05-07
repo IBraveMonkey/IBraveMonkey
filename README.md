@@ -62,9 +62,8 @@
 
 ```txt
 Location : Russia → Tatarstan → Kazan → Baltasi
-Role     : Go Backend Developer
 Focus    : Distributed Systems / APIs / Infrastructure
-Status   : 
+Status   : tired
 ```
 
 * 👯 Looking for collaborators — preferably ones who write `time.Sleep()` instead of proper sync
