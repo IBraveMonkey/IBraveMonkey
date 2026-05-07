@@ -2,11 +2,8 @@
 
 
 
-### Go Backend Developer
+```go func main() { panic("distributed systems") }
 
-func main() {
-    panic("distributed systems")
-}
 
 
 *"You found my GitHub. Brave soul."*
