@@ -1,6 +1,5 @@
 <div align="center">
 
-go func main() { panic("distributed systems") }
 
 *"You found my GitHub. Brave soul."*
 
