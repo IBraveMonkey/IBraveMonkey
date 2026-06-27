@@ -12,7 +12,7 @@
 │  spawning goroutines & praying for no races...                  │
 │  build: SUCCESS (binary is ready) ✔                             │
 │  output: deployed to k8s (pod: CrashLoopBackOff)                │
-│  comment: ... дабля, why it's not working?! It worked in Docker!│
+│  comment: ... daBly'a, why it's not working?! It worked in Docker!│
 └─────────────────────────────────────────────────────────────────┘
 
 </pre>
