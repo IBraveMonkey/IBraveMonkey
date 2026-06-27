@@ -5,15 +5,15 @@
 <br>
 
 <pre>
-┌─────────────────────────────────────────────────────────────────┐
-│  checking if err != nil everywhere...                           │
-│  mounting config.yaml (hopefully right path)...                 │
-│  waiting for postgres to be ready...                            │
-│  spawning goroutines & praying for no races...                  │
-│  build: SUCCESS (binary is ready) ✔                             │
-│  output: deployed to k8s (pod: CrashLoopBackOff)                │
+┌───────────────────────────────────────────────────────────────────┐
+│  checking if err != nil everywhere...                             │
+│  mounting config.yaml (hopefully right path)...                   │
+│  waiting for postgres to be ready...                              │
+│  spawning goroutines & praying for no races...                    │
+│  build: SUCCESS (binary is ready) ✔                               │
+│  output: deployed to k8s (pod: CrashLoopBackOff)                  │
 │  comment: ... daBly'a, why it's not working?! It worked in Docker!│
-└─────────────────────────────────────────────────────────────────┘
+└───────────────────────────────────────────────────────────────────┘
 
 </pre>
 
